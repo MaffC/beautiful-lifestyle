@@ -1,0 +1,5 @@
+*.o
+*.ko
+*.obj
+*.out
+core
