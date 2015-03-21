@@ -1,2 +1,0 @@
-kbbutil - Simple utility for reading the current brightness level of a MacBook keyboard's backlight, and for setting the brightness level.
-Theoretically requires OSX 10.5 or newer and any MacBook model past the early non-PowerPC macbooks, however this utility has not been tested on anything other than a MacBook Air 6,1 running OS10.10. Your mileage may vary.
